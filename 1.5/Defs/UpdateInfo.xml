@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="SRTSTankerhovertrucks_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3418348625</linkUrl>
+		<banner>UpdateInfo/SRTSTankerhovertrucks</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="SRTSTankerhovertrucks_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>SRTSTankerhovertrucks_1_5_1</defName>
+		<date>2026/1/4</date>
+		<content>This mod will not be further updated.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

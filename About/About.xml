@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>SRTS Tanker hover trucks (Continued)</name>
+  <name>[Abandoned] SRTS Tanker hover trucks (Continued)</name>
   <packageId>Mlie.SRTSTankerhovertrucks</packageId>
   <author>Sovereign,Sokyran</author>
   <url>https://github.com/emipa606/SRTSTankerhovertrucks</url>
@@ -20,30 +20,46 @@
   <loadAfter>
     <li>smashphil.srtsexpanded</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Sovereign,Sokyrans mod https://steamcommunity.com/sharedfiles/filedetails/?id=2763797632
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[b]Small tanker[/b]
+Speed: poor
+Fuel cap: 600L
+Fuel efficiency: poor
+----------------------------
+Cargo capy: 150kg
+Internal power plant: 500w
+
+[b]Big tanker[/b]
+Speed: Good
+Fuel cap: 1,600L
+Fuel efficiency: Good
+----------------------------
+Cargo capy: 600kg
+Internal power plant: 1,700w
+
+[img]https://img.litet.net/logos/Abandoned.png[/img]
 
 [table]
-    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/SRTSTankerhovertrucks][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/SRTSTankerhovertrucks][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
     [/tr]
     [tr]
-        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
-        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
 This sleek hover-truck requires at least 1 pawn as a pilot, it's engine structures are different from your usual trucks as it specialized in liquid transportation, make sure it is well kept hidden from any sort of environmental hazard, extreme temperatures, fire, chemicals, acid and especially bullets.
 
 Supports [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836308268]Dubs Bad Hygiene[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1321849735]Rimefeller[/url]
 
-[img]https://i.imgur.com/PwoNOj4.png[/img]
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
@@ -51,5 +67,5 @@ Supports [url=https://steamcommunity.com/sharedfiles/filedetails/?id=836308268]D
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3418348625][img]https://img.shields.io/github/v/release/emipa606/SRTSTankerhovertrucks?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  liquid,  transportation</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>

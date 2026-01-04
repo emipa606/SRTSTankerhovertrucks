@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="SRTSTankerhovertrucks_UpdateFeatureBase">
+		<modNameReadable>SRTSTankerhovertrucks</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3418348625</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="SRTSTankerhovertrucks_UpdateFeatureBase">
+		<defName>SRTSTankerhovertrucks_1_5_1</defName>
+		<assemblyVersion>1.5.1</assemblyVersion>
+		<content>This mod will not be further updated.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+
